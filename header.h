@@ -18,6 +18,9 @@
 #define CLASS_NUMBER     9 
 #define TRAINNING_NUMBER 11
 #define K 6
+
+enum method {E34 , F0 , GDF , SA} ;
+
 /*
 const char* CLASS_1 = "s01";
 const char* CLASS_2 = "s02";
